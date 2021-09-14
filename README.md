@@ -1,0 +1,2 @@
+# SS13-Harshlands
+Harshlands is an SS13 server taking place on the frontiers of space after recent advancements in space travel and warp-gate tech have allowed the various species of the galaxy to extend beyond it. Isolated in the new territory, the crew of a space station works toward discovering what lies beyond the rim of the Milky Way. Traitors, aliens, and other threats abound will not make this easy, though.
